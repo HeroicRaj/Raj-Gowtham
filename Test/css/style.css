@@ -1,0 +1,25 @@
+p {
+  font-size: 20pxpx;
+  color: #ff0000;
+}
+
+h1 {
+  color: red;
+  font-size: 20pxpx;
+}
+
+h2 {
+  color: blue;
+}
+
+a {
+  color: green;
+}
+
+h5 {
+  font-size: 35px;
+}
+
+body {
+  background: #fff000;
+}/*# sourceMappingURL=style.css.map */
